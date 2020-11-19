@@ -19696,9 +19696,9 @@ react-helmet@6.1.0:
     react-side-effect "^2.1.0"
 
 react-hook-form@^6.6.0:
-  version "6.6.0"
-  resolved "https://registry.npmjs.org/react-hook-form/-/react-hook-form-6.6.0.tgz#bda76fc50a916096afe18119f6f57f2b3911cdb7"
-  integrity sha512-5UKx2SBMaWuwy614H730Vv2QmoGdsdYpN96MnWXYzC8cHIUi9N2hYwtI86TEIcBHJ6FvEewh3onfA7P243RM1g==
+  version "6.11.3"
+  resolved "https://registry.npmjs.org/react-hook-form/-/react-hook-form-6.11.3.tgz#7de409d4e100452ac0d3255780b3af3d3027d87a"
+  integrity sha512-RWBQ2FdCI6B247hna8LM1oPThvZiGM8wJkTTOLHRHhSBgD5JrTBYOrteLRo7qKXP9CdVYSAK1kjPs1JCqeWb3g==
 
 react-hot-loader@^4.12.21:
   version "4.12.21"
